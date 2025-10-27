@@ -2,11 +2,11 @@ name: Generate snake
 
 on:
   schedule:
-    - cron: "0 0 * * 1"   # chaque lundi
+    - cron: "0 0 * * 1"   
   workflow_dispatch:
 
 permissions:
-  contents: write          # permet de pousser sur la branche 'output'
+  contents: write         
 
 jobs:
   build:
