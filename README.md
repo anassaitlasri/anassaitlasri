@@ -34,8 +34,6 @@
 
 ## 📫 **Contact**
 
-**LinkedIn**: [linkedin.com/in/anassaitlasri](https://www.linkedin.com/in/anassaitlasri)  ·  **Portfolio**: *add if available*  ·  **Email**: *optional public*
+**LinkedIn**: [linkedin.com/in/anassaitlasri](https://www.linkedin.com/in/anassaitlasri)  
 
 ---
-
-> **Note:** **`anassaitlasri/anassaitlasri`** is a ✨ *special* ✨ repository—its `README.md` appears at the top of your GitHub profile. Pin projects later when you’re ready.
