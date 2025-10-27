@@ -1,16 +1,25 @@
 name: Generate snake
+
 on:
-  schedule: [{cron: "0 0 * * 1"}]  # chaque lundi
+  schedule:
+    - cron: "0 0 * * 1"   # chaque lundi
   workflow_dispatch:
+
+permissions:
+  contents: write          # permet de pousser sur la branche 'output'
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: anassaitlasri
-          outputs: dist/snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
+          outputs: |
+            dist/snake.svg
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
