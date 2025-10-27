@@ -2,6 +2,10 @@
 
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=800&center=true&vCenter=true&width=650&lines=Data%2FAI+Engineering+Student;LLM%2FRAG+%26+Agents;Cloud+%7C+Architecture+%7C+Football" alt="typing intro" />
+</p>
+
 **Student in Data/AI Engineering · LLM/RAG & Agents · Cloud · Football**
 
 ---
@@ -32,8 +36,27 @@
 
 **Languages**: **Python**, **SQL**  ·  **LLM/ML**: **LangChain**, **LangGraph**, scikit‑learn, **FAISS**  ·  **Cloud**: **AWS**, **GCP**  ·  **Ops**: **Docker**, **FastAPI**, **GitHub Actions**  ·  **Data**: **Pandas/Polars**, dbt/Airflow *(basics)*
 
+## 📊 **Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anassaitlasri&show_icons=true&hide_title=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anassaitlasri&layout=compact&langs_count=8" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anassaitlasri&hide_border=false" />
+</p>
+
+<!-- Snake (will appear after you add the workflow in .github/workflows/snake.yml) -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anassaitlasri/anassaitlasri/output/snake.svg" alt="snake" />
+</p>
+
 ## 📫 **Contact**
 
-**LinkedIn**: [linkedin.com/in/anassaitlasri](https://www.linkedin.com/in/anassaitlasri)  
+**LinkedIn**: [linkedin.com/in/anassaitlasri](https://www.linkedin.com/in/anassaitlasri)
 
 ---
+
+> **Note:** **`anassaitlasri/anassaitlasri`** is a ✨ *special* ✨ repository—its `README.md` appears at the top of your GitHub profile. Pin projects later when you’re ready.
