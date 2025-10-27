@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-**Student in Data/AI Engineering · LLM/RAG & Agents · Cloud · Football Analytics**
+**Student in Data/AI Engineering · LLM/RAG & Agents · Cloud · Football**
 
 ---
 
@@ -11,7 +11,7 @@
 * 🧠 **LLM Apps**: **RAG**, **agents** (LangChain/**LangGraph**), **evals & traces**
 * 🏗️ **Architecture**: design choices, patterns, **trade‑offs** *(cost/latency/quality)*
 * ☁️ **Cloud**: **AWS** (Lambda, S3, ECS/**Fargate**), **GCP** (GCS, **BigQuery**, **Cloud Run**)
-* ⚽ **Football analytics**: match features, models, dashboards
+* ⚽ **Football**: match features, data
 
 ## 🧩 **How I work**
 
