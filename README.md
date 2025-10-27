@@ -1,9 +1,6 @@
 <div align="center">
 
 # **Anass Ait Lasri** — Data/AI Engineer
-
-## Hi there 👋
-
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=800&center=true&vCenter=true&width=650&lines=Data%2FAI+Engineering+Student;LLM%2FRAG+%26+Agents;Cloud+%7C+Architecture+%7C+Football" alt="typing intro" />
 </p>
@@ -73,5 +70,3 @@
 **LinkedIn**: [linkedin.com/in/anassaitlasri](https://www.linkedin.com/in/anassaitlasri)
 
 ---
-
-> **Note:** **`anassaitlasri/anassaitlasri`** is a ✨ *special* ✨ repository—its `README.md` appears at the top of your GitHub profile. Pin projects later when you’re ready.
