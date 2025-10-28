@@ -1,14 +1,14 @@
 <div align="center">
 
-# **Anass Ait Lasri** — Data/AI Engineer
+# **Anass Ait Lasri** — AI Engineer
 
 ## Hi there 👋
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=800&center=true&vCenter=true&width=720&lines=Data%2FAI+Engineering+Student;LLM%2FRAG+%26+Agents;FastAPI+%2B+Next.js+Demos;AWS+(EC2%2FS3)+%2B+Airflow;Dockerized+ETL+Pipelines" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=2600&pause=700&center=true&vCenter=true&width=860&lines=AI+Engineer;LangChain+%2F+LangGraph;Multi%E2%80%91Agent+Architecture;RAG+Systems;Cloud+%26+MLOps+(AWS%2C+Airflow);FastAPI+%2B+Next.js+Demos" alt="typing intro" />
 </p>
 
-**Student in Data/AI Engineering · LLM/RAG & Agents · FastAPI + Next.js · AWS (EC2/S3) · Airflow · Docker**
+**AI Engineer · LangChain/LangGraph · Multi‑Agent Architecture · RAG · AWS (EC2/S3) · Airflow · FastAPI/Next.js**
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
@@ -109,7 +109,12 @@
 
 ### 📫 **Contact**
 
-**LinkedIn**: [linkedin.com/in/anass-ait-lasri](https://www.linkedin.com/in/anass-ait-lasri/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/anass-ait-lasri/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Anass%20Ait%20Lasri-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a><br/>
+  <a href="https://www.linkedin.com/in/anass-ait-lasri/">linkedin.com/in/anass-ait-lasri</a>
+</div>
 
 ---
 
@@ -119,4 +124,3 @@
   </a>
 </p>
 
-<div align="center">
