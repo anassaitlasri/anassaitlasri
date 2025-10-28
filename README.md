@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Anass Ait Lasri** — AI Engineer
+# **Anass Ait Lasri**
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=2600&pause=700&center=true&vCenter=true&width=860&lines=AI+Engineer;LangChain+%2F+LangGraph;Multi%E2%80%91Agent+Architecture;RAG+Systems;Cloud+%26+MLOps+(AWS%2C+Airflow);FastAPI+%2B+Next.js+Demos" alt="typing intro" />
