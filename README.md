@@ -113,48 +113,61 @@ Quickly validating ideas with <b>FastAPI</b> backends and <b>Next.js/React</b> f
 
 <br/>
 
-<!-- Section Philosophy avec design premium -->
+<!-- =========================
+     Engineering Philosophy
+     ========================= -->
 ## 🎯 My Engineering Philosophy
 
+<!-- Row of premium badges (gradient, uniform height) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Organize-Clean_Structure-0b3b5a?style=for-the-badge" alt="Organize"/>
-  <img src="https://img.shields.io/badge/PoC_First-Validate_Fast-1f6feb?style=for-the-badge" alt="PoC First"/>
-  <img src="https://img.shields.io/badge/Benchmark-Choose_Simple-6f42c1?style=for-the-badge" alt="Benchmark"/>
-  <img src="https://img.shields.io/badge/Production-Ready_Always-2d7d46?style=for-the-badge" alt="Production"/>
-  <img src="https://img.shields.io/badge/Keep_Simple-Readability_First-ff6b6b?style=for-the-badge" alt="Simple"/>
+  <img src="https://img.shields.io/badge/Organize-Clean%20structure-0b3b5a?style=for-the-badge&colorA=0b3b5a&colorB=1f6feb" alt="Organize badge"/>
+  <img src="https://img.shields.io/badge/PoC%20first-Validate%20fast-1f6feb?style=for-the-badge&colorA=1f6feb&colorB=6f42c1" alt="PoC badge"/>
+  <img src="https://img.shields.io/badge/Benchmark-Simplest%20that%20works-6f42c1?style=for-the-badge&colorA=6f42c1&colorB=2d7d46" alt="Benchmark badge"/>
+  <img src="https://img.shields.io/badge/Production-Minded%20%7C%20CI%2FCD-2d7d46?style=for-the-badge&colorA=2d7d46&colorB=0b3b5a" alt="Production badge"/>
+  <img src="https://img.shields.io/badge/Keep%20it%20simple-Readability%20%3E%20complexity-ff6b6b?style=for-the-badge&colorA=ff6b6b&colorB=f39c12" alt="Simplicity badge"/>
 </p>
 
+<!-- 5 uniform cards (perfectly aligned) -->
 <table align="center">
-<tr>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="70" alt="Organize"/>
-<h3>Organize</h3>
-Clean structure<br/>Clear naming<br/>Comprehensive docs
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" width="70" alt="PoC"/>
-<h3>PoC First</h3>
-Validate concepts<br/>quickly before<br/>scaling
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="70" alt="Benchmark"/>
-<h3>Benchmark</h3>
-Choose the simplest<br/>solution that<br/>works
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ship.png" width="70" alt="Production"/>
-<h3>Production</h3>
-Environment vars<br/>Tests & CI/CD<br/>GitHub Actions
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="70" alt="Simple"/>
-<h3>Keep Simple</h3>
-Readability over<br/>complexity<br/>always
-</td>
-</tr>
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="56" alt="Organize icon"/><br/>
+      <b>Organize</b><br/>
+      <sub>Clean structure</sub><br/>
+      <sub>Clear naming</sub><br/>
+      <sub>Docs & repo hygiene</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" width="56" alt="PoC icon"/><br/>
+      <b>PoC first</b><br/>
+      <sub>Validate quickly</sub><br/>
+      <sub>Derisk early</sub><br/>
+      <sub>Scale when proven</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="56" alt="Benchmark icon"/><br/>
+      <b>Benchmark</b><br/>
+      <sub>Compare options</sub><br/>
+      <sub>Measure trade-offs</sub><br/>
+      <sub>Simplest that works</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ship.png" width="56" alt="Production icon"/><br/>
+      <b>Production-minded</b><br/>
+      <sub>Env vars & tests</sub><br/>
+      <sub>Observability</sub><br/>
+      <sub>CI/CD (GH Actions)</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="56" alt="Simplicity icon"/><br/>
+      <b>Keep it simple</b><br/>
+      <sub>Readable code</sub><br/>
+      <sub>Small surfaces</sub><br/>
+      <sub>Low cognitive load</sub>
+    </td>
+  </tr>
 </table>
 
-<br/>
 
 <!-- GitHub Stats avec design moderne -->
 ## 📊 GitHub Analytics
