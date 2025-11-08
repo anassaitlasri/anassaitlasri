@@ -95,35 +95,31 @@
 <br/>
 <table align="center" width="100%">
 <tr>
-
-<!-- LLM Applications -->
+<table align="center" width="100%">
+<tr>
 <td align="center" width="25%">
-<img src="https://www.evidentlyai.com/_next/image?url=%2Fblog%2Fllm-applications%2Fllm-use-cases.png&w=640&q=75" width="100%" alt="LLM Applications"/>
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/brain_1f9e0.png" width="100" alt="LLM"/>
 <h3>LLM Applications</h3>
 <p align="center">Building intelligent agents with <b>LangGraph</b>, implementing <b>RAG systems</b> with proper citations, and rigorous <b>evaluation</b> pipelines with <b>LangSmith</b> for production quality.</p>
 </td>
 
-<!-- Architecture -->
 <td align="center" width="25%">
-<img src="https://miro.medium.com/v2/resize:fit:1200/1*XjTCoBcq_xi1Ad60WabLog.png" width="100%" alt="Architecture"/>
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/classical-building_1f3db.png" width="100" alt="Architecture"/>
 <h3>Architecture</h3>
 <p align="center">Designing scalable systems with clear <b>design patterns</b>, analyzing <b>latency/cost/quality trade-offs</b>, and making informed technical decisions.</p>
 </td>
 
-<!-- Cloud & MLOps -->
 <td align="center" width="25%">
-<img src="https://images.unsplash.com/photo-1614064642303-29e1b2c7b6b1?auto=format&fit=crop&w=800&q=80" width="100%" alt="Cloud & MLOps"/>
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/cloud_2601-fe0f.png" width="100" alt="Cloud"/>
 <h3>Cloud & MLOps</h3>
 <p align="center">Deploying on <b>AWS (EC2, S3)</b>, orchestrating workflows with <b>Airflow</b>, containerizing with <b>Docker</b>, and building reliable data pipelines.</p>
 </td>
 
-<!-- Rapid Prototyping -->
 <td align="center" width="25%">
-<img src="https://bigrep.com/wp-content/uploads/2022/03/rapid-prototyping-3d-printing.jpg" width="100%" alt="Rapid Prototyping"/>
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/rocket_1f680.png" width="100" alt="Prototyping"/>
 <h3>Rapid Prototyping</h3>
 <p align="center">Quickly validating ideas with <b>FastAPI</b> backends and <b>Next.js/React</b> frontends to iterate fast before production scaling.</p>
 </td>
-
 </tr>
 </table>
 
