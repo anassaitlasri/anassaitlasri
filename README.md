@@ -14,7 +14,6 @@
   <a href="mailto:anass.aitlasri@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/github/followers/anassaitlasri?style=for-the-badge&color=blueviolet&labelColor=blueviolet&logo=github" alt="Followers"/>
 </p>
 
 <br/>
@@ -104,30 +103,28 @@
 <tr>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="100" alt="LLM"/>
-<br/><br/>
-<h3>🧠 LLM Applications</h3>
+<h3>LLM Applications</h3>
 <p align="center">Building intelligent agents with <b>LangGraph</b>, implementing <b>RAG systems</b> with proper citations, and rigorous <b>evaluation</b> pipelines with <b>LangSmith</b> for production quality.</p>
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Building%20Construction.png" width="100" alt="Architecture"/>
-<br/><br/>
-<h3>🏗️ Architecture</h3>
+<h3>Architecture</h3>
 <p align="center">Designing scalable systems with clear <b>design patterns</b>, analyzing <b>latency/cost/quality trade-offs</b>, and making informed technical decisions.</p>
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="100" alt="Cloud"/>
-<br/><br/>
-<h3>☁️ Cloud & MLOps</h3>
+<h3>Cloud & MLOps</h3>
 <p align="center">Deploying on <b>AWS (EC2, S3)</b>, orchestrating workflows with <b>Airflow</b>, containerizing with <b>Docker</b>, and building reliable data pipelines.</p>
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="100" alt="Prototyping"/>
-<br/><br/>
-<h3>⚡ Rapid Prototyping</h3>
+<h3>Rapid Prototyping</h3>
 <p align="center">Quickly validating ideas with <b>FastAPI</b> backends and <b>Next.js/React</b> frontends to iterate fast before production scaling.</p>
 </td>
 </tr>
 </table>
+
+<br/>
 
 <br/>
 
@@ -153,35 +150,35 @@
 <td align="center" width="20%">
 <br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="80" alt="Organize"/>
-<h3>📋 Organize</h3>
+<h3>Organize</h3>
 <p>Clean structure<br/>Clear naming<br/>Comprehensive docs</p>
 <br/>
 </td>
 <td align="center" width="20%">
 <br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" width="80" alt="PoC"/>
-<h3>🧪 PoC First</h3>
+<h3>PoC First</h3>
 <p>Validate concepts<br/>quickly before<br/>scaling</p>
 <br/>
 </td>
 <td align="center" width="20%">
 <br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="80" alt="Benchmark"/>
-<h3>🔍 Benchmark</h3>
+<h3>Benchmark</h3>
 <p>Choose the simplest<br/>solution that<br/>works</p>
 <br/>
 </td>
 <td align="center" width="20%">
 <br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ship.png" width="80" alt="Production"/>
-<h3>🚢 Production</h3>
+<h3>Production</h3>
 <p>Environment vars<br/>Tests & CI/CD<br/>GitHub Actions</p>
 <br/>
 </td>
 <td align="center" width="20%">
 <br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="80" alt="Simple"/>
-<h3>✅ Keep Simple</h3>
+<h3>Keep Simple</h3>
 <p>Readability over<br/>complexity<br/>always</p>
 <br/>
 </td>
@@ -239,8 +236,6 @@
 </p>
 
 <br/>
-
-### ⭐ If you find my work valuable, consider starring my repositories!
 
 <br/>
 
