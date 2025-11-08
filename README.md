@@ -3,7 +3,7 @@
 <!-- Hero Banner ultra moderne avec gradient et typing -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=ANASS+AIT+LASRI;AI+ENGINEER;AI AUTOMATION; AI SOLUTIONS; MACHINE LEARNING;LLM+AGENTS+%26+RAG+SPECIALIST" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=ANASS+AIT+LASRI;AI+ENGINEER;AI+AUTOMATION;AI+SOLUTIONS;MACHINE+LEARNING;LLM+AGENTS+%26+RAG+SPECIALIST" alt="Typing SVG" />
 
 <br/>
 
