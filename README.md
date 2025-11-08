@@ -3,7 +3,7 @@
 <!-- Hero Banner ultra moderne avec gradient et typing -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=ANASS+AIT+LASRI;AI+ENGINEER+%F0%9F%A4%96;LLM+AGENTS+%26+RAG+SPECIALIST" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=ANASS+AIT+LASRI;AI+ENGINEER;AI AUTOMATION; AI SOLUTIONS; MACHINE LEARNING;LLM+AGENTS+%26+RAG+SPECIALIST" alt="Typing SVG" />
 
 <br/>
 
@@ -102,27 +102,31 @@
 <table align="center" width="100%">
 <tr>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="100" alt="LLM"/>
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/brain_1f9e0.png" width="100" alt="LLM"/>
 <h3>LLM Applications</h3>
 <p align="center">Building intelligent agents with <b>LangGraph</b>, implementing <b>RAG systems</b> with proper citations, and rigorous <b>evaluation</b> pipelines with <b>LangSmith</b> for production quality.</p>
 </td>
+
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Building%20Construction.png" width="100" alt="Architecture"/>
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/classical-building_1f3db.png" width="100" alt="Architecture"/>
 <h3>Architecture</h3>
 <p align="center">Designing scalable systems with clear <b>design patterns</b>, analyzing <b>latency/cost/quality trade-offs</b>, and making informed technical decisions.</p>
 </td>
+
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="100" alt="Cloud"/>
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/cloud_2601-fe0f.png" width="100" alt="Cloud"/>
 <h3>Cloud & MLOps</h3>
 <p align="center">Deploying on <b>AWS (EC2, S3)</b>, orchestrating workflows with <b>Airflow</b>, containerizing with <b>Docker</b>, and building reliable data pipelines.</p>
 </td>
+
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="100" alt="Prototyping"/>
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/rocket_1f680.png" width="100" alt="Prototyping"/>
 <h3>Rapid Prototyping</h3>
 <p align="center">Quickly validating ideas with <b>FastAPI</b> backends and <b>Next.js/React</b> frontends to iterate fast before production scaling.</p>
 </td>
 </tr>
 </table>
+
 
 <br/>
 
