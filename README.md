@@ -220,21 +220,19 @@
 <!-- Section Contact ultra moderne -->
 <div align="center">
 
-<h2>📬 Let's Build Something Amazing Together!</h2>
+### **Let's Build Something Amazing Together!**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Open+to+AI+Engineering+Opportunities+%F0%9F%9A%80;LLM+Applications+%7C+RAG+Systems+%7C+MLOps;Production-Ready+Solutions+%7C+Scalable+Architecture" alt="Typing SVG" />
 
 <br/><br/>
-
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/anass-ait-lasri/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="mailto:anass.aitlasri@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
   </a>
 </p>
-
 <br/>
 
 <br/>
