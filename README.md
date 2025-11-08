@@ -138,54 +138,72 @@ Quickly validating ideas with **FastAPI** backends and **Next.js/React** fronten
 
 <br/>
 
-<!-- Section Philosophy avec design épuré -->
+<!-- Section Philosophy avec design moderne -->
 ## 🎯 My Engineering Philosophy
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[📋 Organize] --> B[🧪 PoC First]
-    B --> C[🔍 Benchmark]
-    C --> D[🚢 Production Ready]
-    D --> E[✨ Keep It Simple]
-    style A fill:#0b3b5a
-    style B fill:#1f6feb
-    style C fill:#6f42c1
-    style D fill:#2d7d46
-    style E fill:#ff6b6b
-```
+<table>
+<tr>
+<td align="center" width="20%">
 
-</div>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="60" alt="Organize"/>
 
-<br/>
+### 🗂️ Organize
 
-<table align="center">
-<tr>
-<th align="center">Principle</th>
-<th align="center">Description</th>
-</tr>
-<tr>
-<td align="center">🗂️ <b>Organize</b></td>
-<td>Clean structure, clear naming, comprehensive docs</td>
-</tr>
-<tr>
-<td align="center">🧪 <b>PoC First</b></td>
-<td>Validate concepts quickly before scaling</td>
-</tr>
-<tr>
-<td align="center">🔎 <b>Benchmark</b></td>
-<td>Choose the simplest solution that works</td>
-</tr>
-<tr>
-<td align="center">🚢 <b>Production-Minded</b></td>
-<td>Environment variables, tests, CI/CD (GitHub Actions)</td>
-</tr>
-<tr>
-<td align="center">🧭 <b>Keep It Simple</b></td>
-<td>Prioritize readability over complexity</td>
+Clean structure  
+Clear naming  
+Comprehensive docs
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" width="60" alt="PoC"/>
+
+### 🧪 PoC First
+
+Validate concepts  
+quickly before  
+scaling
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="60" alt="Benchmark"/>
+
+### 🔎 Benchmark
+
+Choose the simplest  
+solution that  
+works
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ship.png" width="60" alt="Production"/>
+
+### 🚢 Production
+
+Environment vars  
+Tests & CI/CD  
+GitHub Actions
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="60" alt="Simple"/>
+
+### ✨ Keep Simple
+
+Readability over  
+complexity  
+always
+
+</td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -223,8 +241,6 @@ graph LR
     <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
-**⭐ If you find my work interesting, consider giving a star to my repositories!**
 
 <br/>
 
