@@ -19,10 +19,8 @@
 
 <br/>
 
-<!-- Section About avec code block animé -->
-<div align="center">
-
-### 👨‍💻 About Me
+<!-- Section About Me proprement alignée -->
+## 👨‍💻 About Me
 
 ```typescript
 const anass = {
@@ -38,11 +36,9 @@ const anass = {
 };
 ```
 
-</div>
-
 <br/>
 
-<!-- Tech Stack avec design cards amélioré -->
+<!-- Tech Stack avec design cards -->
 ## 🛠️ Tech Arsenal
 
 <table align="center">
@@ -96,45 +92,43 @@ const anass = {
 
 <br/>
 
-<!-- Section Interests AMÉLIORÉE avec plus de contenu -->
+<!-- Section What Drives Me - Parfaitement alignée -->
 ## 💡 What Drives Me
 
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
 <td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="LLM"/>
-<br/><br/>
 
-**🧠 LLM Applications**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" alt="LLM"/>
+
+### 🧠 LLM Applications
 
 Building intelligent agents with **LangGraph**, implementing **RAG systems** with proper citations, and rigorous **evaluation** pipelines with **LangSmith** for production quality.
 
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" width="60" alt="Architecture"/>
-<br/><br/>
 
-**🏗️ Architecture**
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" width="80" alt="Architecture"/>
+
+### 🏗️ Architecture
 
 Designing scalable systems with clear **design patterns**, analyzing **latency/cost/quality trade-offs**, and making informed technical decisions.
 
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="60" alt="Cloud"/>
-<br/><br/>
 
-**☁️ Cloud & MLOps**
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="80" alt="Cloud"/>
+
+### ☁️ Cloud & MLOps
 
 Deploying on **AWS (EC2, S3)**, orchestrating workflows with **Airflow**, containerizing with **Docker**, and building reliable data pipelines.
 
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rocket.svg" width="60" alt="Prototyping"/>
-<br/><br/>
 
-**⚡ Rapid Prototyping**
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rocket.svg" width="80" alt="Prototyping"/>
+
+### ⚡ Rapid Prototyping
 
 Quickly validating ideas with **FastAPI** backends and **Next.js/React** frontends to iterate fast before production scaling.
 
@@ -142,11 +136,9 @@ Quickly validating ideas with **FastAPI** backends and **Next.js/React** fronten
 </tr>
 </table>
 
-</div>
-
 <br/>
 
-<!-- Section Philosophy avec design moderne -->
+<!-- Section Philosophy avec design épuré -->
 ## 🎯 My Engineering Philosophy
 
 <div align="center">
@@ -166,85 +158,34 @@ graph LR
 
 </div>
 
-| Principle | Description |
-|-----------|-------------|
-| 🗂️ **Organize** | Clean structure, clear naming, comprehensive docs |
-| 🧪 **PoC First** | Validate concepts quickly before scaling |
-| 🔎 **Benchmark** | Choose the simplest solution that works |
-| 🚢 **Production-Minded** | Environment variables, tests, CI/CD (GitHub Actions) |
-| 🧭 **Keep It Simple** | Prioritize readability over complexity |
-
 <br/>
 
-<!-- Featured Projects avec cards visuelles -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
-
-### 🤖 LLM Agents & RAG Systems
-
-**Production-ready agentic systems**
-
-- ✅ LangGraph multi-agent workflows
-- ✅ RAG with FAISS/Chroma + citations
-- ✅ LangSmith evaluation & tracing
-- ✅ FastAPI backends + Next.js demos
-
-**Tech**: LangChain • LangGraph • FastAPI • Next.js
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ Cloud ETL Pipeline
-
-**Automated data pipeline on AWS**
-
-- ✅ Dockerized Airflow orchestration
-- ✅ S3 data lake integration (boto3)
-- ✅ Automated ETL with logging
-- ✅ PostgreSQL data warehouse
-
-**Tech**: Airflow • AWS S3 • Docker • PostgreSQL
-
-</td>
+<th align="center">Principle</th>
+<th align="center">Description</th>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🔬 ML Explainability Platform
-
-**Trust & transparency in NLP**
-
-- ✅ CamemBERT toxicity detection
-- ✅ SHAP, LIME, Integrated Gradients
-- ✅ Streamlit dashboard on AWS EC2
-- ✅ Real-time model interpretation
-
-**Tech**: Transformers • SHAP • Streamlit • AWS
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 OCR → Search Pipeline
-
-**Document intelligence system**
-
-- ✅ Multi-format OCR extraction
-- ✅ Semantic chunking & indexing
-- ✅ Vector search with metadata
-- ✅ Source attribution & citations
-
-**Tech**: Tesseract • LangChain • FAISS • FastAPI
-
-</td>
+<td align="center">🗂️ <b>Organize</b></td>
+<td>Clean structure, clear naming, comprehensive docs</td>
+</tr>
+<tr>
+<td align="center">🧪 <b>PoC First</b></td>
+<td>Validate concepts quickly before scaling</td>
+</tr>
+<tr>
+<td align="center">🔎 <b>Benchmark</b></td>
+<td>Choose the simplest solution that works</td>
+</tr>
+<tr>
+<td align="center">🚢 <b>Production-Minded</b></td>
+<td>Environment variables, tests, CI/CD (GitHub Actions)</td>
+</tr>
+<tr>
+<td align="center">🧭 <b>Keep It Simple</b></td>
+<td>Prioritize readability over complexity</td>
 </tr>
 </table>
-
-</div>
 
 <br/>
 
