@@ -107,12 +107,12 @@
 <p align="center">Building intelligent agents with <b>LangGraph</b>, implementing <b>RAG systems</b> with proper citations, and rigorous <b>evaluation</b> pipelines with <b>LangSmith</b> for production quality.</p>
 </td>
 
-<td align="center" width="25%"> 
+<td align="center" width="25%">
 <img src="https://em-content.zobj.net/thumbs/240/apple/354/classical-building_1f3db.png" width="100" alt="Architecture"/>
-(https://em-content.zobj.net/thumbs/240/apple/354/classical-building_1f3db.png)
 <h3>Architecture</h3>
 <p align="center">Designing scalable systems with clear <b>design patterns</b>, analyzing <b>latency/cost/quality trade-offs</b>, and making informed technical decisions.</p>
 </td>
+
 
 <td align="center" width="25%">
 <img src="https://em-content.zobj.net/thumbs/240/apple/354/cloud_2601-fe0f.png" width="100" alt="Cloud"/>
