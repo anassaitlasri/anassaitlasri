@@ -18,22 +18,14 @@
 
 <br/>
 
-<!-- Section About Me proprement alignée -->
+<!-- Section About Me avec animation de typing code -->
 ## 👨‍💻 About Me
 
-```typescript
-const anass = {
-    role: "AI Engineer",
-    focus: ["LLM Agents", "RAG Systems", "Production MLOps"],
-    tech_stack: {
-        backend: ["Python", "FastAPI"],
-        frontend: ["Next.js", "React"],
-        cloud: ["AWS (EC2, S3)", "Docker", "Airflow"],
-        llm: ["LangChain", "LangGraph", "LangSmith"]
-    },
-    mindset: "Simple, Production-Ready, Benchmark-Driven"
-};
-```
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=500&color=3178C6&multiline=true&repeat=true&width=800&height=180&lines=const+anass+%3D+%7B;++role%3A+%22AI+Engineer%22%2C;++focus%3A+%5B%22LLM+Agents%22%2C+%22RAG+Systems%22%2C+%22Production+MLOps%22%5D%2C;++tech_stack%3A+%7B;++++backend%3A+%5B%22Python%22%2C+%22FastAPI%22%5D%2C;++++frontend%3A+%5B%22Next.js%22%2C+%22React%22%5D%2C;++++cloud%3A+%5B%22AWS+(EC2%2C+S3)%22%2C+%22Docker%22%2C+%22Airflow%22%5D%2C;++++llm%3A+%5B%22LangChain%22%2C+%22LangGraph%22%2C+%22LangSmith%22%5D;++%7D%2C;++mindset%3A+%22Simple%2C+Production-Ready%2C+Benchmark-Driven%22;%7D%3B" alt="Typing SVG" />
+</a>
+</div>
 
 <br/>
 
@@ -91,118 +83,76 @@ const anass = {
 
 <br/>
 
-<!-- Section What Drives Me - Parfaitement alignée -->
+<!-- Section What Drives Me avec cards modernes -->
 ## 💡 What Drives Me
 
 <table align="center">
 <tr>
 <td align="center" width="25%">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" alt="LLM"/>
-
-### 🧠 LLM Applications
-
-Building intelligent agents with **LangGraph**, implementing **RAG systems** with proper citations, and rigorous **evaluation** pipelines with **LangSmith** for production quality.
-
+<h3>🧠 LLM Applications</h3>
+Building intelligent agents with <b>LangGraph</b>, implementing <b>RAG systems</b> with proper citations, and rigorous <b>evaluation</b> pipelines with <b>LangSmith</b> for production quality.
 </td>
 <td align="center" width="25%">
-
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" width="80" alt="Architecture"/>
-
-### 🏗️ Architecture
-
-Designing scalable systems with clear **design patterns**, analyzing **latency/cost/quality trade-offs**, and making informed technical decisions.
-
+<h3>🏗️ Architecture</h3>
+Designing scalable systems with clear <b>design patterns</b>, analyzing <b>latency/cost/quality trade-offs</b>, and making informed technical decisions.
 </td>
 <td align="center" width="25%">
-
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="80" alt="Cloud"/>
-
-### ☁️ Cloud & MLOps
-
-Deploying on **AWS (EC2, S3)**, orchestrating workflows with **Airflow**, containerizing with **Docker**, and building reliable data pipelines.
-
+<h3>☁️ Cloud & MLOps</h3>
+Deploying on <b>AWS (EC2, S3)</b>, orchestrating workflows with <b>Airflow</b>, containerizing with <b>Docker</b>, and building reliable data pipelines.
 </td>
 <td align="center" width="25%">
-
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rocket.svg" width="80" alt="Prototyping"/>
-
-### ⚡ Rapid Prototyping
-
-Quickly validating ideas with **FastAPI** backends and **Next.js/React** frontends to iterate fast before production scaling.
-
+<h3>⚡ Rapid Prototyping</h3>
+Quickly validating ideas with <b>FastAPI</b> backends and <b>Next.js/React</b> frontends to iterate fast before production scaling.
 </td>
 </tr>
 </table>
 
 <br/>
 
-<!-- Section Philosophy avec design moderne -->
+<!-- Section Philosophy avec design premium -->
 ## 🎯 My Engineering Philosophy
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Organize-Clean_Structure-0b3b5a?style=for-the-badge" alt="Organize"/>
+  <img src="https://img.shields.io/badge/PoC_First-Validate_Fast-1f6feb?style=for-the-badge" alt="PoC First"/>
+  <img src="https://img.shields.io/badge/Benchmark-Choose_Simple-6f42c1?style=for-the-badge" alt="Benchmark"/>
+  <img src="https://img.shields.io/badge/Production-Ready_Always-2d7d46?style=for-the-badge" alt="Production"/>
+  <img src="https://img.shields.io/badge/Keep_Simple-Readability_First-ff6b6b?style=for-the-badge" alt="Simple"/>
+</p>
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="20%">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="60" alt="Organize"/>
-
-### 🗂️ Organize
-
-Clean structure  
-Clear naming  
-Comprehensive docs
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="70" alt="Organize"/>
+<h3>📋 Organize</h3>
+Clean structure<br/>Clear naming<br/>Comprehensive docs
 </td>
 <td align="center" width="20%">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" width="60" alt="PoC"/>
-
-### 🧪 PoC First
-
-Validate concepts  
-quickly before  
-scaling
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" width="70" alt="PoC"/>
+<h3>🧪 PoC First</h3>
+Validate concepts<br/>quickly before<br/>scaling
 </td>
 <td align="center" width="20%">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="60" alt="Benchmark"/>
-
-### 🔎 Benchmark
-
-Choose the simplest  
-solution that  
-works
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="70" alt="Benchmark"/>
+<h3>🔍 Benchmark</h3>
+Choose the simplest<br/>solution that<br/>works
 </td>
 <td align="center" width="20%">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ship.png" width="60" alt="Production"/>
-
-### 🚢 Production
-
-Environment vars  
-Tests & CI/CD  
-GitHub Actions
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ship.png" width="70" alt="Production"/>
+<h3>🚢 Production</h3>
+Environment vars<br/>Tests & CI/CD<br/>GitHub Actions
 </td>
 <td align="center" width="20%">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="60" alt="Simple"/>
-
-### ✨ Keep Simple
-
-Readability over  
-complexity  
-always
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" width="70" alt="Simple"/>
+<h3>🧭 Keep Simple</h3>
+Readability over<br/>complexity<br/>always
 </td>
 </tr>
 </table>
-
-</div>
 
 <br/>
 
@@ -240,6 +190,8 @@ always
     <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+**⭐ If you find my work interesting, consider giving a star to my repositories!**
 
 <br/>
 
