@@ -1,11 +1,10 @@
 <div align="center">
 
-<!-- Hero Section avec gradient moderne -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anass%20Ait%20Lasri&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Agents%20%26%20RAG%20Specialist&descSize=16&descAlignY=51"/>
+<!-- Hero Banner avec typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Anass+Ait+Lasri;AI+Engineer+%F0%9F%A4%96;LLM+Agents+%26+RAG+Specialist;Production-Ready+Solutions" alt="Typing SVG" />
+</a>
 
-<br/>
-
-<!-- Badges de contact stylisés -->
 <p>
   <a href="https://www.linkedin.com/in/anass-ait-lasri/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -20,7 +19,7 @@
 
 <br/>
 
-<!-- Section About avec icônes modernes -->
+<!-- Section About avec code block animé -->
 <div align="center">
 
 ### 👨‍💻 About Me
@@ -43,7 +42,7 @@ const anass = {
 
 <br/>
 
-<!-- Tech Stack avec design cards -->
+<!-- Tech Stack avec design cards amélioré -->
 ## 🛠️ Tech Arsenal
 
 <table align="center">
@@ -97,7 +96,7 @@ const anass = {
 
 <br/>
 
-<!-- Section Interests avec des cards visuelles -->
+<!-- Section Interests AMÉLIORÉE avec plus de contenu -->
 ## 💡 What Drives Me
 
 <div align="center">
@@ -105,35 +104,39 @@ const anass = {
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="60" alt="Brain"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="LLM"/>
+<br/><br/>
 
-**LLM Applications**
+**🧠 LLM Applications**
 
-RAG • Agents • Evals
-
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Building%20Construction.png" width="60" alt="Architecture"/>
-
-**Architecture**
-
-Design Patterns • Trade-offs
+Building intelligent agents with **LangGraph**, implementing **RAG systems** with proper citations, and rigorous **evaluation** pipelines with **LangSmith** for production quality.
 
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="60" alt="Cloud"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" width="60" alt="Architecture"/>
+<br/><br/>
 
-**Cloud & MLOps**
+**🏗️ Architecture**
 
-AWS • Docker • Airflow
+Designing scalable systems with clear **design patterns**, analyzing **latency/cost/quality trade-offs**, and making informed technical decisions.
 
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="60" alt="Computer"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="60" alt="Cloud"/>
+<br/><br/>
 
-**Rapid Prototyping**
+**☁️ Cloud & MLOps**
 
-FastAPI • Next.js
+Deploying on **AWS (EC2, S3)**, orchestrating workflows with **Airflow**, containerizing with **Docker**, and building reliable data pipelines.
+
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rocket.svg" width="60" alt="Prototyping"/>
+<br/><br/>
+
+**⚡ Rapid Prototyping**
+
+Quickly validating ideas with **FastAPI** backends and **Next.js/React** frontends to iterate fast before production scaling.
 
 </td>
 </tr>
@@ -186,10 +189,10 @@ graph LR
 
 **Production-ready agentic systems**
 
-- LangGraph multi-agent workflows
-- RAG with FAISS/Chroma + citations
-- LangSmith evaluation & tracing
-- FastAPI backends + Next.js demos
+- ✅ LangGraph multi-agent workflows
+- ✅ RAG with FAISS/Chroma + citations
+- ✅ LangSmith evaluation & tracing
+- ✅ FastAPI backends + Next.js demos
 
 **Tech**: LangChain • LangGraph • FastAPI • Next.js
 
@@ -200,10 +203,10 @@ graph LR
 
 **Automated data pipeline on AWS**
 
-- Dockerized Airflow orchestration
-- S3 data lake integration (boto3)
-- Automated ETL with logging
-- PostgreSQL data warehouse
+- ✅ Dockerized Airflow orchestration
+- ✅ S3 data lake integration (boto3)
+- ✅ Automated ETL with logging
+- ✅ PostgreSQL data warehouse
 
 **Tech**: Airflow • AWS S3 • Docker • PostgreSQL
 
@@ -216,10 +219,10 @@ graph LR
 
 **Trust & transparency in NLP**
 
-- CamemBERT toxicity detection
-- SHAP, LIME, Integrated Gradients
-- Streamlit dashboard on AWS EC2
-- Real-time model interpretation
+- ✅ CamemBERT toxicity detection
+- ✅ SHAP, LIME, Integrated Gradients
+- ✅ Streamlit dashboard on AWS EC2
+- ✅ Real-time model interpretation
 
 **Tech**: Transformers • SHAP • Streamlit • AWS
 
@@ -230,10 +233,10 @@ graph LR
 
 **Document intelligence system**
 
-- Multi-format OCR extraction
-- Semantic chunking & indexing
-- Vector search with metadata
-- Source attribution & citations
+- ✅ Multi-format OCR extraction
+- ✅ Semantic chunking & indexing
+- ✅ Vector search with metadata
+- ✅ Source attribution & citations
 
 **Tech**: Tesseract • LangChain • FAISS • FastAPI
 
@@ -254,18 +257,22 @@ graph LR
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anassaitlasri&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anassaitlasri&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=anassaitlasri&theme=react-dark&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF" alt="Contribution Graph"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anassaitlasri&theme=radical" alt="Profile Details"/>
 
 </div>
 
 <br/>
 
-<!-- Section finale avec wave -->
+<!-- Section finale avec animation -->
 <div align="center">
 
 ## 📬 Let's Connect!
 
-**Open to opportunities in AI Engineering, LLM Applications, and RAG Systems**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Open+to+AI+Engineering+opportunities+%F0%9F%9A%80;LLM+Applications+%7C+RAG+Systems+%7C+MLOps;Let's+build+something+amazing+together!" alt="Typing SVG" />
+</a>
+
+<br/><br/>
 
 <p>
   <a href="https://www.linkedin.com/in/anass-ait-lasri/">
@@ -278,6 +285,8 @@ graph LR
 
 **⭐ If you find my work interesting, consider giving a star to my repositories!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
