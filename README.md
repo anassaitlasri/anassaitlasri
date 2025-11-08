@@ -104,7 +104,7 @@
 </td>
 
 <td align="center" width="25%">
-<img src="https://em-content.zobj.net/thumbs/240/apple/354/classical-building_1f3db.png" width="100" alt="Architecture"/>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3db.png" width="100" alt="Architecture"/>
 <h3>Architecture</h3>
 <p align="center">Designing scalable systems with clear <b>design patterns</b>, analyzing <b>latency/cost/quality trade-offs</b>, and making informed technical decisions.</p>
 </td>
